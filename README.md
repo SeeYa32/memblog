@@ -14,3 +14,7 @@ Fixed a few things on the blog, and by few, I mean many. Well, here it goes.
 	6. Widgets should be updating properly now
 	7. Single posts should be able to be viewed properly now
 	8. Centered everything to make it a little more pleasing
+	
+Future Possibilities:
+
+	1. Logging of devices and IP Addresses
